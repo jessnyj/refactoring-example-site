@@ -1,7 +1,7 @@
 # Code Refactor for Horiseon 
 
 ## Site Picture
-![Site]("images/horiseon-site-picture.png")
+![Site](refactoring-example-site/assets/images/horiseon-site-picture.png)
 
 ## Technologies Used
 
