@@ -1,7 +1,7 @@
 # Code Refactor for Horiseon 
 
 ## Site Picture
-![Site](jessnyj/refactoring-example-site/assets/images/horiseon-site-picture.png)
+![Site](assets/images/horiseon-site-picture.png)
 
 ## Technologies Used
 
@@ -17,13 +17,34 @@ social media marketing.
 
 * [See Live Site] (https://jessnyj.github.io/refactoring-example-site/)
 
-## 
+## Work Involved
+ For this site, I modified the css and html files by adding semantic structural elements, creating a logial structure and ensuring everything was in sequential order, adding alt attributes, making sure all of the links worked properly, and by adding a title. These changes allow the css and html to be more accessible, organized, and improved its functionality. 
+
+ ## Code Snippet
+ ```html
+ <header>
+        <h1>Hori<span class="seo">seo</span>n</h1>
+        <nav>
+            <ul>
+                <li><a href="#search-engine-optimization">Search Engine Optimization</a></li>
+                <li><a href="#online-reputation-management">Online Reputation Management</a></li>
+                <li><a href="#social-media-marketing">Social Media Marketing</a></li>
+            </ul>
+        </nav>
+    </header>
+```
+
+```html
+<html>
+
+</html>
+```
+
 
 ## Authors
-UC Berkeley Coding Bootcamp
+**UC Berkeley Coding Bootcamp**
 
-* **Jessny Joseph** 
-
+**Jessny Joseph** 
 - [Link to Github](https://github.com/jessnyj)
 - [Link to LinkedIn](https://www.linkedin.com/in/jessny-joseph-361515201)
 
