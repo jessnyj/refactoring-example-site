@@ -1,7 +1,7 @@
 # Code Refactor for Horiseon 
 
 ## Site Picture
-
+![Site]("images/horiseon-site-picture.png")
 
 ## Technologies Used
 
@@ -21,6 +21,7 @@ It was my job to modify the
 
 
 ## Authors
+UC Berkeley Coding Bootcamp
 
 * **Jessny Joseph** 
 
