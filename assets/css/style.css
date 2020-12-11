@@ -20,11 +20,11 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,7 +32,7 @@ header div {
     font-size: 20px;
 }
 
-header  ul {
+header ul {
     list-style-type: none;
 }
 
@@ -106,7 +106,7 @@ p {
 }
 
 /* duplicate code, make as one */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing{
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
