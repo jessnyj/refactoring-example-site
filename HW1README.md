@@ -1,12 +1,12 @@
-# Horiseon Marketing Agency
+# Code Refactor for Horiseon 
 
 ## Site Picture
 
 
 ## Technologies Used
 
-* [HTML]
-* [CSS]
+* HTML
+* CSS
 
 ## Summary
 This site belongs to the Horiseon Marketing Agency. Within the site, it contains information about the 
